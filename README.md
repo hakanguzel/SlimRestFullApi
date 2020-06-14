@@ -29,7 +29,7 @@ Projeyi çalıştırmak için proje klasöründe
 
     composer update
 
-`php -S localhost:8080 -t public`
-
+    php -S localhost:8080 -t public
 
 `http://localhost:8080/tumkitaplar` adresini tarayıcınızda açınız.
+
